@@ -3,4 +3,4 @@ A planetary system creation GUI application.
 
 (WIP)
 
-![](icon.png | width=100)
+<a href="url"><img src="icon.png" align="center" height="48" width="48" ></a>
